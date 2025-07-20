@@ -70,10 +70,10 @@ function App() {
           <div className="text-center">
             <h1 className="text-6xl font-bold mb-6">
               <span className="bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-                Verzaubert das
+                Verzaubert
               </span>
               <br />
-              <span className="text-gray-700">Süsse in dir</span>
+              <span className="text-gray-700">das Süsse in dir</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Entdecke unsere magische Kollektion von Premium-Süßigkeiten, Leckereien und Konfekt, 
