@@ -64,6 +64,17 @@ function App() {
         </div>
       </nav>
 
+      {/* Animated sugar cane under navbar */}
+      <div 
+        className="absolute top-20 text-4xl z-40"
+        style={{
+          animation: 'moveLeftToRight 6s linear infinite',
+          animationDelay: '1s'
+        }}
+      >
+        🍭
+      </div>
+
       {/* Hero Section */}
       <div className="relative overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
